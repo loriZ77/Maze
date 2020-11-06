@@ -13,7 +13,7 @@ import javafx.util.Pair;
  * 1. begin from starting point
  * 2. check coins or thief
  * 3. randomly pick direction that current cell support
- * 4. make movement, wrapping maze property is considered.
+ * 4. make movement, wrapping maze property is considered
  */
 public class Player {
   private int startX;

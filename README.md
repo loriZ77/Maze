@@ -1,7 +1,7 @@
-# Maze_Kruskal# Homework 3 -- Mazes
+# Mazes designed with Kruskal's Algorithm
 <br>
 
-> This homework is designed and implemented the interfaces/classes to generate perfect mazes, room mazes, and wrapping room mazes in a way that captures their similarities and accurately represents the relevant data. Then uses command line arguments to specify parameters to create a player to solve the specified maze.
+> This project is designed and implemented the interfaces/classes to generate perfect mazes, room mazes, and wrapping room mazes in a way that captures their similarities and accurately represents the relevant data. Then uses command line arguments to specify parameters to create a player to solve the specified maze.
 
 Requirement:
 
